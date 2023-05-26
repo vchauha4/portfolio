@@ -18,7 +18,7 @@ function Explorer({ items, closeExplorer, openNotepad, isMobile }) {
         <>
         <Modal
             icon="blank_screen_100_32x32_4bit"
-            title="Explorer - Mosaab Abbas"
+            title="Explorer - Varun Noah Chauhan"
             closeModal={closeExplorer}
             style={{
                 left: isMobile ? '5%' : '15%',
