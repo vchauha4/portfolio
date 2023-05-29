@@ -25,7 +25,7 @@ export default class DataService {
                 name: 'Resume.txt',
                 image: require('../assets/cv.ico'),
                 content: {
-                    resumeLink:"https://drive.google.com/file/d/1DaAQXEdqn-UfbDfIEn7Spb_yozg0EnEA/view?usp=sharing",
+                    resumeLink:"https://drive.google.com/file/d/1u-BpqD-50FurxauDNYpDwohN-T-tMK_O/view?usp=sharing",
                     workExperience: [
                       {
                           jobTitle: "Freelance Developer",
@@ -167,7 +167,7 @@ export default class DataService {
                     },
                     {
                         name: "C#",
-                        img:require('../assets/C#.png')
+                        img:require('../assets/asdas.png')
                     },
                     {
                         name: "mySQL",
